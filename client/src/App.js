@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
  <Layout title={"hello"}>
-    <h1>Hello worl</h1>
+    <h1>Hello wor</h1>
  </Layout>
     </div>
   );
